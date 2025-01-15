@@ -1,4 +1,6 @@
 # Blog_2024
+Getting Started with Rails
+https://guides.rubyonrails.org/getting_started.html#setting-the-application-home-page
 
 Things you may want to cover:
 
